@@ -3,6 +3,8 @@
 <h3 align="center">Passionate Data Scientist | Crafting Insights from Complexity</h3>
 <img align="right" alt="Coding" widht="400" height="300" src="assets/center.gif" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamabinatta&label=Profile%20views&color=0e75b6&style=flat" alt="usamabinatta" /> </p>
+
 - 💬 Ask me about **Data Science, Machine Learning, and natural language processing techniques.**
 
 <br>
@@ -26,8 +28,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DKJrcaC3SrV92i0BNDt2T9Qrk_6-1ws4/view?usp=drive_link](https://drive.google.com/file/d/1DKJrcaC3SrV92i0BNDt2T9Qrk_6-1ws4/view?usp=drive_link)
 
 - ⚡ Fun fact **I can turn complex data into captivating stories!**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamabinatta&label=Profile%20views&color=0e75b6&style=flat" alt="usamabinatta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamabinatta" alt="usamabinatta" /></a> </p>
 
