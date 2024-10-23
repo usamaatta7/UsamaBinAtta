@@ -49,6 +49,7 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Usama-Atta-13) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27252785/usama-atta)
 
+----
 
 <h3 align="left">💻 Usama Bin Atta's Stats 2023</h3>
 
@@ -63,11 +64,13 @@
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaBinAtta&theme=tokyonight" />
 </div>
 
+----
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamabinatta" alt="usamabinatta" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/usamabinatta" target="blank"><img src="https://img.shields.io/twitter/follow/usamabinatta?logo=twitter&style=for-the-badge" alt="usamabinatta" /></a> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
