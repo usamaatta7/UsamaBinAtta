@@ -79,3 +79,19 @@
 
 ----
 
+<h3 align="left">👽 Visitors</h3>
+
+Counting of visitors to this page in this section started from September 1, 2023
+
+<img src="https://count.getloli.com/get/@usamabinatta.github.readme?theme=rule34" alt="Visitors" />
+
+<br>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=usamabinatta&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=usamabinatta&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![MasterHead](assets/banner.gif)](https://github.com/usamaBinAtta)
+
