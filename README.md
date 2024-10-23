@@ -1,4 +1,4 @@
-[![MasterHead](assets/banner.jpeg)](https://github.com/usamaBinAtta)
+[![MasterHead](assets/banner.gif)](https://github.com/usamaBinAtta)
 <h1 align="center">Hi 👋, I'm Usama Bin Atta</h1>
 <h3 align="center">Passionate Data Scientist | Crafting Insights from Complexity</h3>
 
