@@ -19,15 +19,11 @@
 
 - 🌱 I’m currently learning **TensorFlow, Keras, Scikit-learn, and advanced machine learning techniques, including transformers and large language models (LLMs) in natural language processing (NLP).**
 
-- 👨‍💻 All of my projects are available at [https://github.com/UsamaBinAtta/](https://github.com/UsamaBinAtta/)
+<a href="https://github.com/UsamaBinAtta">
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=UsamaBinAtta&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WidgetBox Profile" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,sql,mysql,html,css&libraries=tensorflow,scikit-learn,keras,pytorch&tools=jupyter,git,anaconda&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox Skills" />
+</a>
 
-- 📝 I regularly write articles on [https://medium.com/@usaama.atta](https://medium.com/@usaama.atta)
-
-- 📫 How to reach me **usaama.atta@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DKJrcaC3SrV92i0BNDt2T9Qrk_6-1ws4/view?usp=drive_link](https://drive.google.com/file/d/1DKJrcaC3SrV92i0BNDt2T9Qrk_6-1ws4/view?usp=drive_link)
-
-- ⚡ Fun fact **I can turn complex data into captivating stories!**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamabinatta" alt="usamabinatta" /></a> </p>
 
