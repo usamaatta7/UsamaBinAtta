@@ -1,12 +1,7 @@
 [![MasterHead](assets/banner.gif)](https://github.com/usamaBinAtta)
 <h1 align="center">Hi 👋, I'm Usama Bin Atta</h1>
 <h3 align="center">Passionate Data Scientist | Crafting Insights from Complexity</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamabinatta&label=Profile%20views&color=0e75b6&style=flat" alt="usamabinatta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamabinatta" alt="usamabinatta" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/usamabinatta" target="blank"><img src="https://img.shields.io/twitter/follow/usamabinatta?logo=twitter&style=for-the-badge" alt="usamabinatta" /></a> </p>
+<img align="right" alt="Coding" widht="400" height="300" src="assets/center.gif" />
 
 - 🏆 Highlighted Achievement: [RAG-Q&A || Contextual Intelligence with LLaMA-2](https://github.com/UsamaBinAtta/LLaMA-based-Q-A-System)
 
@@ -27,6 +22,12 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DKJrcaC3SrV92i0BNDt2T9Qrk_6-1ws4/view?usp=drive_link](https://drive.google.com/file/d/1DKJrcaC3SrV92i0BNDt2T9Qrk_6-1ws4/view?usp=drive_link)
 
 - ⚡ Fun fact **I can turn complex data into captivating stories!**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamabinatta&label=Profile%20views&color=0e75b6&style=flat" alt="usamabinatta" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamabinatta" alt="usamabinatta" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/usamabinatta" target="blank"><img src="https://img.shields.io/twitter/follow/usamabinatta?logo=twitter&style=for-the-badge" alt="usamabinatta" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
