@@ -21,8 +21,9 @@
 
 <a href="https://github.com/UsamaBinAtta">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=UsamaBinAtta&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WidgetBox Profile" />
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,sql,mysql,html,css&libraries=tensorflow,scikit-learn,keras,pytorch&tools=jupyter,git,anaconda&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox Skills" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,sql&libraries=tensorflow,scikit-learn,keras,pytorch,sentence-transformers,llama-index&tools=jupyter,git&software=linux,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox Skills" />
 </a>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamabinatta" alt="usamabinatta" /></a> </p>
