@@ -50,6 +50,20 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27252785/usama-atta)
 
 
+<h3 align="left">💻 Usama Bin Atta's Stats 2023</h3>
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaBinAtta&layout=compact&langs_count=8&theme=tokyonight" />
+  <br><br>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaBinAtta&show_icons=true&theme=tokyonight&count_private=true&rank_icon=percentile" />
+  <br><br>
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaBinAtta&theme=tokyonight" />
+</div>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamabinatta" alt="usamabinatta" /></a> </p>
 
