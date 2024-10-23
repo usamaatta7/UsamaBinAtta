@@ -65,6 +65,9 @@
 </div>
 
 ----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=usamabinatta&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+----
 <h3 align="left">📇 Connect with Usama Bin Atta</h3>
 <p align="left">
 <a href="https://facebook.com/usamabinatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Usama Bin Atta Facebook" height="30" width="40" /></a>
@@ -75,8 +78,6 @@
 </p>
 
 ----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usamabinatta" alt="usamabinatta" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/usamabinatta" target="blank"><img src="https://img.shields.io/twitter/follow/usamabinatta?logo=twitter&style=for-the-badge" alt="usamabinatta" /></a> </p>
 
