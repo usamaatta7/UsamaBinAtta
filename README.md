@@ -3,19 +3,23 @@
 <h3 align="center">Passionate Data Scientist | Crafting Insights from Complexity</h3>
 <img align="right" alt="Coding" widht="400" height="300" src="assets/center.gif" />
 
-- 🏆 Highlighted Achievement: [RAG-Q&A || Contextual Intelligence with LLaMA-2](https://github.com/UsamaBinAtta/LLaMA-based-Q-A-System)
+- 💬 Ask me about **Data Science, Machine Learning, and natural language processing techniques.**
 
-- 🌱 I’m currently learning **TensorFlow, Keras, Scikit-learn, and advanced machine learning techniques, including transformers and large language models (LLMs) in natural language processing (NLP).**
+<br>
+
+- 🏆 Highlighted Achievement: [RAG-Q&A || LLaMA-2](https://github.com/UsamaBinAtta/LLaMA-based-Q-A-System)
 
 - 🌟 Projects I'm Proud Of: [Bite Right](https://github.com/UsamaBinAtta/Bite-Right)
 
 - ✅ Completed Projects [SmartVision || Live Object Detection with COCO Integration](https://github.com/UsamaBinAtta/Object_Detection)
 
+<br>
+
+- 🌱 I’m currently learning **TensorFlow, Keras, Scikit-learn, and advanced machine learning techniques, including transformers and large language models (LLMs) in natural language processing (NLP).**
+
 - 👨‍💻 All of my projects are available at [https://github.com/UsamaBinAtta/](https://github.com/UsamaBinAtta/)
 
 - 📝 I regularly write articles on [https://medium.com/@usaama.atta](https://medium.com/@usaama.atta)
-
-- 💬 Ask me about **Data Science, Machine Learning, and natural language processing techniques.**
 
 - 📫 How to reach me **usaama.atta@gmail.com**
 
